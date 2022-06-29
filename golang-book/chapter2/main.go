@@ -10,7 +10,7 @@ func main() {
 	//Strings
 	fmt.Println("\n_______Strings_________\n")
 
-	fmt.Println(len("Hello world"))
+	fmt.Println(len("Hello, world"))
 	fmt.Println("Hello, World"[1]) // will be display in bytes '101' and not the letter 'e'
 	fmt.Println("Hello, " + "World")
 
